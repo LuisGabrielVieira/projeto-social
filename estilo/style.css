@@ -31,7 +31,5 @@ section#telefone{
 
     width: 311px;
     height: 627px;
-    background-color: cadetblue;
-    background: url('../imagens/frame-iphone311x600.png') no-repeat;
-     
+    background: url('../imagens/frame-iphone311x600.png') no-repeat top center;
 }
