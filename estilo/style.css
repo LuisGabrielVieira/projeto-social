@@ -52,7 +52,7 @@ section#redes > a > img{
     box-sizing: border-box;
 }
 section#redes img:hover{
-    border: 2px solid rgba(255, 255, 255, 0.425);
+    border: 1px solid rgba(255, 255, 255, 0.425);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px black;
     transition: transform .30s, border .1s;
